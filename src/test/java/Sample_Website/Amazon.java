@@ -20,6 +20,8 @@ public class Amazon {
 	  driver.get("https://www.amazon.in/");
 	  
 	  System.out.println("opening Amazon website");
+	  
+	  System.out.println("Hello ,welcome to Amazon");
 	//  Thread.sleep(1000);
 	  
 	  driver.close();
