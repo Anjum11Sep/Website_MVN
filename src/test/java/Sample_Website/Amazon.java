@@ -22,6 +22,8 @@ public class Amazon {
 	  System.out.println("opening Amazon website");
 	  
 	  System.out.println("Hello ,welcome to Amazon");
+	  
+	  
 	//  Thread.sleep(1000);
 	  
 	  driver.close();
